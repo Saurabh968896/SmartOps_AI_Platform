@@ -54,10 +54,3 @@ AI-integrated applications
 
 Pull requests are welcome. For major changes, please open an issue first.
 
-📧 Contact
-
-Saurabh Pandey
-
-⭐ Support
-
-If you found this useful, consider giving it a star ⭐
