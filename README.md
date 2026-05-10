@@ -2,7 +2,7 @@
 
 A scalable backend system for automating organizational workflows, featuring attendance tracking, payroll processing, and data-driven insights. Built with FastAPI and Supabase, with a modular architecture designed for future AI-driven automation.
 
-📌 Features
+📌 Features : 
 Employee & workforce management
 Attendance tracking
 Payroll processing
